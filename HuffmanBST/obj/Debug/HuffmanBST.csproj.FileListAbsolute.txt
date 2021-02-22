@@ -1,0 +1,21 @@
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\bin\Debug\HuffmanBST.exe.config
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\bin\Debug\HuffmanBST.exe
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\bin\Debug\HuffmanBST.pdb
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.FormMain.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.Properties.Resources.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.exe
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.pdb
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.FormDecode.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST\HuffmanBST\obj\Debug\HuffmanBST.FormEncode.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\bin\Debug\HuffmanBST.exe.config
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.exe
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.pdb
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.FormMain.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.FormEncode.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.Properties.Resources.resources
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\obj\Debug\HuffmanBST.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\bin\Debug\HuffmanBST.exe
+C:\Users\Jason\Desktop\File Ubaya\Term 3\Strukdat\HuffmanBST Project\HuffmanBST Original\HuffmanBST\bin\Debug\HuffmanBST.pdb
